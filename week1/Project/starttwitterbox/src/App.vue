@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import TwitterBox from "./components/TwitterBox.vue"
+import TwitterBox from "./components/TwitterBox.vue";
 
 export default {
   name: "App",
